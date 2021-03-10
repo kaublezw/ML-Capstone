@@ -1,0 +1,1 @@
+{"file": "rotated_Screenshot (356)_30.jpg", "image_size": [{"width": 2262, "height": 1999, "depth": 3}], "annotations": [{"class_id": 1, "top": 666, "left": 908, "width": 121, "height": 115}, {"class_id": 0, "top": 772, "left": 907, "width": 95, "height": 92}], "categories": [{"class_id": 0, "name": "3clover"}, {"class_id": 1, "name": "4clover"}]}

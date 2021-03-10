@@ -1,0 +1,10 @@
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\bin\Debug\ImageParser.exe.config
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\bin\Debug\ImageParser.exe
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\bin\Debug\ImageParser.pdb
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.csprojAssemblyReference.cache
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.Form1.resources
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.Properties.Resources.resources
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.csproj.GenerateResource.cache
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.csproj.CoreCompileInputs.cache
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.exe
+C:\Users\kaublezw\Source\Repos\ImageParser\ImageParser\obj\Debug\ImageParser.pdb

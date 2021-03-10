@@ -1,0 +1,1 @@
+{"file": "rotated_a3773d3b543a4a2b871d51316b3397ac_0.jpg", "image_size": [{"width": 1920, "height": 1200, "depth": 3}], "annotations": [{"class_id": 1, "top": 471, "left": 990, "width": 93, "height": 119}, {"class_id": 0, "top": 454, "left": 875, "width": 148, "height": 136}], "categories": [{"class_id": 0, "name": "3clover"}, {"class_id": 1, "name": "4clover"}]}
